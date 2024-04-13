@@ -1,3 +1,5 @@
+import org.jetbrains.kotlin.gradle.utils.API
+
 plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsKotlinAndroid)
